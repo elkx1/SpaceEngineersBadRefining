@@ -441,7 +441,7 @@ namespace BadRefiningMod
         private void ReduceSmallRefineryIngotYields()
         {
             MultiplyBlueprintResultAmounts(GetBlueprintByName("StoneOreToIngot"), _settings.StoneOreToIngotYieldFactor);
-            MultiplyBlueprintResultAmounts(GetBlueprintByName("StoneOreToIngotBasic"), _settings.StoneOreToIngotSurvivalKitYieldFactor);
+            MultiplyBlueprintResultAmounts(GetBlueprintByName("Position0010_StoneOreToIngotBasic"), _settings.StoneOreToIngotSurvivalKitYieldFactor);
         }
 
 

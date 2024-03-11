@@ -25,7 +25,3 @@ This is similar to some parts of the Survival Less Likely mod.
 
 Most of the changes made by this mod can be configured to whatever values you like; see `%AppData%\SpaceEngineers\Saves\<Your Save>\Storage\Bad Refining_BadRefiningMod\Settings.xml` after starting a new map with the mod loaded.
 
-
-## Source code
-
-https://github.com/wakjah/SpaceEngineersBadRefining
